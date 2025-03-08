@@ -1,5 +1,5 @@
 # Geospatial-AVM-Limerick
-Code used to develop a geospatial automated valuation model for property price in Limerick. Full report [here](). 
+Code used to develop a geospatial automated valuation model for property price in Limerick. Full report [here](https://github.com/brianod414/Geospatial-AVM-Limerick/blob/b6fd397e94495c0ea39978b5ae329d8590a7abeb/Geospatial_AVM_Limerick.pdf). 
 
 ## Code Files 
 
